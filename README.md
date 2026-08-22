@@ -4,7 +4,7 @@ A smart home controller based on ESP32, FreeRTOS and Telegram Bot.
 
 ## Demo
 
-![Smart Home Demo](images/Home%20Controller%20GIF.gif)
+![Smart Home Demo](images/home-controller-demo.gif)
 
 ## Features
 
